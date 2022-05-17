@@ -1,0 +1,7 @@
+﻿  TSP.cpp
+C:\Users\annas\source\repos\TSP\TSP.cpp(82,25): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  TSP.vcxproj -> C:\Users\annas\source\repos\TSP\Debug\TSP.exe
